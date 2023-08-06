@@ -35,7 +35,7 @@ cd biblia-cli
 ```bash
 sudo make install
 ```
-3. Dezinatalarea
+3. Dezinstalarea
 ```bash
 sudo make uninstall
 ```
