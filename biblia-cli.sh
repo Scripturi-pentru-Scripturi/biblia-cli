@@ -1,7 +1,7 @@
 #!/bin/sh
 # biblia-cli: Citește Biblia în linia de comandă
 # Autor: Trag Date https://github.com/tragdate
-# Licență: Dominiu public
+# Licență: Domeniul public
 
 SELF="$0"
 
