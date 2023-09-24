@@ -180,20 +180,15 @@ biblia-cli [flag] [referință...]
 - [ ] Livrarea in format WebApp
 
 # Despre resurse
-## Textul Scripturii este preluat de pe [BibliaOrtodoxa.ro](https://bibliaortodoxa.ro)
+## Textul Scripturii este preluat de pe [Doxologia.ro](https://www.doxologia.ro)
 
-# Despre BibliaOrtodoxa.ro
+# Despre Doxologia.ro
 
-Acest site este dezvoltat prin bunavointa mai multor crestini ortodocsi care au tehno-redactat, digitizat, programat si verificat textul Sfintei Scripturi pentru a-l pune la dispozitie pe internet, indeosebi in vederea unei mai facile cautari si accesari.
-
-Site-ul nu are nici o legatura cu vreo organizatie sau asociatie oficiala, fiind o initiativa benevola care nu vine decat in umplerea unui gol: nici Patriarhia Romana nici alte mitropolii nu ofera in prezent o versiune online a Bibliei. Singura exceptie notabila este [Manastirea Dervent](http://www.dervent.ro/biblia.php) care va ofera versiunea Anania (din pacate fara facilitatea de cautare).
-
-Textul site-ului este preluat din Biblia sau Sfanta Scriptura tiparita sub indrumarea si cu purtarea de grija a PF Teoctist, cu aprobarea Sfantului Sinod.
-
-Initial continutul a fost preluat de pe un site vechi care nu specifica anul editiei. Corecturile ulterioare si adaugirile textelor lipsa sunt preluate din editia 1994 tiparita de Societatea Biblica Interconfesionala din Romania care reproduce textul editiei din 1982.
+Portalul doxologia.ro este un proiect al Mitropoliei Moldovei şi Bucovinei – Arhiepiscopia Iaşilor, dezvoltat şi administrat de Doxologia Media, cu binecuvântarea Înaltpreasfinţitului Părinte Teofan, Mitropolitul Moldovei şi Bucovinei.
 
 # Alte resurse
 ### [Patriarhia Română](https://www.patriarhia.ro)
 ### [Manastirea Dervent](http://www.dervent.ro/biblia.php)
 ### [Doxologia](https://www.doxologia.ro)
+### [BibliaOrtodoxa](https://bibliaortodoxa.ro)
 ### [Doxologia-Biblia sau Sfânta Scriptură](https://www.doxologia.ro/biblia)
