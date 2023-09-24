@@ -172,7 +172,7 @@ biblia-cli [flag] [referință...]
 
 # TO-DO
 - [ ] Scrape la varianta Doxologia
-- [ ] Actualizare pe baza textului din Doxologia
+- [x] Actualizare pe baza textului din Doxologia
 - [ ] Eventuale corecturi
 - [ ] Livrarea in format GUI pentru Windows
 - [ ] Livrarea in format GUI pentru MacOS 
