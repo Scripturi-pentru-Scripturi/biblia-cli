@@ -171,7 +171,6 @@ biblia-cli [flag] [referință...]
 |Apocalipsa|Ap|Apocalipsa Sfântului Ioan|
 
 # TO-DO
-- [ ] Scrape la varianta Doxologia
 - [x] Actualizare pe baza textului din Doxologia
 - [ ] Eventuale corecturi
 - [ ] Livrarea in format GUI pentru Windows
